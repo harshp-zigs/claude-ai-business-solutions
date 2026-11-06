@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harshp-zigs.codeberg.page/claude-ai-business-solutions/sitemap.xml
